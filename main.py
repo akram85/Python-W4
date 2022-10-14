@@ -48,3 +48,21 @@ print (numbers)
 x=2
 print (x in numbers)
 
+#GA1
+x = 2 ** 5
+x1 = x // 2
+x2 = x1 // 2
+x3 = x2 // 2
+x4 = x3 // 2
+x5 = x4 // 2
+print(x1 + x2 + x3 + x4 + x5)
+
+'''word = 'someone'
+print(word[0])
+print(word[-7])'''
+
+'''sentence = input()
+space = ' '
+num_words = sentence.count(space) + 1
+print(num_words)
+'''
